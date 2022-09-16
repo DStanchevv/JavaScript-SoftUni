@@ -19,7 +19,7 @@ function solve(num, command1, command2, command3, command4, command5)
             console.log(num);
             break;
         case 'fillet':
-            num8*=0.8;
+            num*=0.8;
             console.log(num);
             break;
     }
@@ -42,7 +42,7 @@ function solve(num, command1, command2, command3, command4, command5)
             console.log(num);
             break;
         case 'fillet':
-            num8*=0.8;
+            num*=0.8;
             console.log(num);
             break;
     }
@@ -65,7 +65,7 @@ function solve(num, command1, command2, command3, command4, command5)
             console.log(num);
             break;
         case 'fillet':
-            num8*=0.8;
+            num*=0.8;
             console.log(num);
             break;
     }
@@ -88,7 +88,7 @@ function solve(num, command1, command2, command3, command4, command5)
             console.log(num);
             break;
         case 'fillet':
-            num8*=0.8;
+            num*=0.8;
             console.log(num);
             break;
     }
@@ -111,7 +111,7 @@ function solve(num, command1, command2, command3, command4, command5)
             console.log(num);
             break;
         case 'fillet':
-            num8*=0.8;
+            num*=0.8;
             console.log(num);
             break;
     }
