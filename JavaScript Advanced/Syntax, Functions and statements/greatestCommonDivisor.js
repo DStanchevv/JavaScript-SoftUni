@@ -1,5 +1,10 @@
-function solve(num1,num2)
+function solve(x,y)
 {
-    
+    while(y){
+        var t = y;
+        y = x % y;
+        x = t;
+    }
+    console.log(x);
 }
 solve(15,5)
